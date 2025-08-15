@@ -23,7 +23,7 @@ cd python_tg_bot_TK_RF
 pip install -r requirements.txt
 ```
 
-3) Настройте .env файл исходя из примера (.env.example), скачайте файл credentials.json с Google Cloud Console (Create Credentials -> Service Account; Add Key -> Create new key -> JSON)
+3) Настройте .env файл исходя из примера (.env.example), скачайте json-файл с Google Cloud Console (Create Credentials -> Service Account; Add Key -> Create new key -> JSON), переименуйте его в credentials.json
   
 4) Запуск проекта:
 ```sh
